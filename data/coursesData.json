@@ -1,0 +1,160 @@
+{
+    "Courses": [
+      {
+        "id": "HTML001",
+        "title": "HTML: From Scratch to Pro",
+        "description": "Master HTML from the basics to advanced techniques",
+        "levels": [
+          {
+            "name": "Beginner",
+            "topics": [
+              "Introduction to HTML",
+              "Basic Tags and Elements",
+              "HTML Document Structure",
+              "Text Formatting",
+              "Links and Images"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Forms and Input Types",
+              "Tables and Lists",
+              "Semantic HTML",
+              "Multimedia Integration",
+              "Accessibility Basics"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "HTML5 APIs",
+              "Canvas and SVG",
+              "Responsive Images",
+              "Web Components",
+              "SEO Optimization Techniques"
+            ]
+          }
+        ],
+        "duration": "8 weeks",
+        "price": 299.99
+      },
+      {
+        "id": "CSS002",
+        "title": "CSS: Styling from Zero to Hero",
+        "description": "Learn to create stunning website designs with CSS",
+        "levels": [
+          {
+            "name": "Beginner",
+            "topics": [
+              "CSS Syntax and Selectors",
+              "Colors and Backgrounds",
+              "Box Model",
+              "Typography",
+              "Basic Layouts"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Flexbox",
+              "CSS Grid",
+              "Responsive Design",
+              "Transitions and Animations",
+              "Positioning and Z-index"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "CSS Preprocessors (Sass, Less)",
+              "CSS Architecture (BEM, SMACSS)",
+              "CSS-in-JS",
+              "Advanced Animations",
+              "Performance Optimization"
+            ]
+          }
+        ],
+        "duration": "10 weeks",
+        "price": 349.99
+      },
+      {
+        "id": "JS003",
+        "title": "JavaScript: From Novice to Ninja",
+        "description": "Become a JavaScript expert from the ground up",
+        "levels": [
+          {
+            "name": "Beginner",
+            "topics": [
+              "JavaScript Basics",
+              "Variables and Data Types",
+              "Control Structures",
+              "Functions",
+              "DOM Manipulation"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Object-Oriented JavaScript",
+              "ES6+ Features",
+              "Asynchronous JavaScript",
+              "Error Handling",
+              "Working with APIs"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Design Patterns",
+              "Functional Programming",
+              "Testing and Debugging",
+              "Performance Optimization",
+              "Building Full-Stack Applications"
+            ]
+          }
+        ],
+        "duration": "12 weeks",
+        "price": 399.99
+      },
+      {
+        "id": "DSA004",
+        "title": "Data Structures and Algorithms: Foundations to Mastery",
+        "description": "Build a strong foundation in DSA and ace technical interviews",
+        "levels": [
+          {
+            "name": "Beginner",
+            "topics": [
+              "Introduction to Algorithms",
+              "Basic Data Structures (Arrays, Strings)",
+              "Time and Space Complexity",
+              "Searching and Sorting Algorithms",
+              "Introduction to Recursion"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Stacks and Queues",
+              "Linked Lists",
+              "Trees and Graphs",
+              "Hash Tables",
+              "Divide and Conquer Algorithms"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Dynamic Programming",
+              "Advanced Graph Algorithms",
+              "Greedy Algorithms",
+              "Balancing Trees (AVL, Red-Black)",
+              "Advanced Data Structures (Segment Trees, Tries)"
+            ]
+          }
+        ],
+        "duration": "16 weeks",
+        "price": 499.99
+      }
+    ]
+  }

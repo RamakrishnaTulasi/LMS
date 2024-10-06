@@ -1,0 +1,15 @@
+doctype html
+html(lang="en")
+    head
+        meta(charset="UTF-8")
+        meta(name="viewport", content="width=device-width, initial-scale=1.0")
+        link(rel="stylesheet", href="/assets/css/userStyle.css")
+        block content-head 
+    body 
+        include userHeader
+
+        block content-body  
+        
+        include userFooter 
+
+        script(src="/assets/js/userScript.js")
